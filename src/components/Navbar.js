@@ -33,11 +33,3 @@ export default class Navbar extends Component {
     );
   }
 }
-{/*
-const ButtonContainer = styled.button'
-text-transform: capitalize;
-font-size: 1.4rem;
-background: transparent;
-border: 0.5rem solid var(--lightBlue);
-';
-*/}
