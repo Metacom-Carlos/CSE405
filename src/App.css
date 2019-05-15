@@ -22,6 +22,9 @@ body{
   .text-bright{
     color: var(--lightBlue);
   }
+  .text-doom{
+    color: var(--MFDOOM);
+  }
   .button{
     text-transform: capitalize;
     font-size: 1.4rem;
