@@ -9,9 +9,9 @@ export const storeProducts = [
     title: "Waveshaper T-shirt",
     img: "img/product-1.png",
     price: 15,
-    company: "GOOGLE",
+    company: "Kid Finesse",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "100% Cotton T-shirt with a design inspired by the late great video-game Cyperpunk as well as taking inspiration from many electronic artists.",
     inCart: false,
     count: 0,
     total: 0
@@ -21,9 +21,9 @@ export const storeProducts = [
     title: "Super Mario T-shirt",
     img: "img/product-2.png",
     price: 15,
-    company: "SAMSUNG",
+    company: "Nintendo",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Grab a shirt with the legend on it himself. Show your respect of Super Mario to the world when you wear this T-shirt.",
     inCart: false,
     count: 0,
     total: 0
@@ -104,12 +104,12 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: "Google Pixel - Black",
+  title: "Placeholder in data.js",
   img: "img/product-1.png",
-  price: 10,
-  company: "google",
+  price: 14.99,
+  company: "Kid Finesse",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Legend says Kanye himself wore this very shirt before dropping out of college and producing his first mixtape.",
   inCart: false,
   count: 0,
   total: 0
